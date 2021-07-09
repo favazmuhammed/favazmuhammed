@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @favazmuhammed
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in Machine Learning & AI
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
