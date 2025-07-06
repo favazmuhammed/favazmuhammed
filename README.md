@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning & AI
 - 🌱 I’m currently working as Senior NLP Engineer at Samsung Research India Bangalore
 - 💞️ I’m looking to collaborate on Machine Learning projects
-- 📫 How to reach me linkedin.com/in/muhammed-favas/
+- 📫 How to reach me linkedin.com/in/favazmuhammed/
 
 <!---
 favazmuhammed/favazmuhammed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
